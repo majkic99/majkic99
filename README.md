@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nmajkic)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vrnebojsamajkic@gmail.com)
 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=majkic99)](https://github.com/anuraghazra/github-readme-stats)
